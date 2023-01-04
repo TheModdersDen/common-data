@@ -1,5 +1,6 @@
 [{
     "one": true,
     "two": false,
-    "three": true
+    "three": true,
+    "four": "0.0.1"
 }]
